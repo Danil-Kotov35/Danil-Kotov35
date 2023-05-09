@@ -5,6 +5,7 @@ beginner web developer
 ----------------------
 
 I am an aspiring web developer looking for an opportunity to gain experience in this area. I have knowledge of HTML and CSS and am willing to learn additional programming languages to succeed in this profession.
+At the moment I am studying at the Institute of Communications in the direction of "software development".
 
 * 🌍  I'm based in Ekaterinburg
 * ✉️  You can contact me at [https://t.me/DanilKotov8352](mailto:https://t.me/DanilKotov8352)
