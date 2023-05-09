@@ -9,7 +9,7 @@ At the moment I am studying at the Institute of Communications in the direction 
 
 * 🌍  I'm based in Ekaterinburg
 * ✉️  You can contact me at [https://t.me/DanilKotov8352](mailto:https://t.me/DanilKotov8352)
-* 🧠  I'm learning I am currently learning javascript
+* 🧠  I am currently learning javascript
 
 ### Skills
 
