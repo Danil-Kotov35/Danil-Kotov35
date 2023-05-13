@@ -4,8 +4,9 @@ Hi 👋 My name is Danil Kotov
 beginner web developer
 ----------------------
 
-I am an aspiring web developer looking for an opportunity to gain experience in this area. I have knowledge of HTML and CSS and am willing to learn additional programming languages to succeed in this profession.
-At the moment I am studying at the Institute of Communications in the direction of "software development".
+<p>Hi, My name is Danil Kotov I am an aspiring web developer looking for an opportunity to gain experience in this area</p>
+            <p>I am proficient in HTML and CSS and actively learn javascript to excel in this profession. At the moment I'm studying at the Institute of Communications in the direction of "software development"</p>
+            <p>I am sure that my persistence and desire to work in web development will allow me to become a valuable member of the team. I am ready to learn and develop in this field and would appreciate the opportunity to gain experience in your company.</p>
 
 * 🌍  I'm based in Ekaterinburg
 * ✉️  You can contact me at [https://t.me/DanilKotov8352](mailto:https://t.me/DanilKotov8352)
